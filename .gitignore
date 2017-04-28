@@ -1,5 +1,9 @@
 ## General
 
+#caffemodel & solverstate
+*.caffemodel
+*.solverstate
+
 # Compiled Object files
 *.slo
 *.lo
