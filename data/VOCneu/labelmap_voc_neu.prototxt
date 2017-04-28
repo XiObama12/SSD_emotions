@@ -1,0 +1,36 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "Cr"
+  label: 1
+  display_name: "Cr"
+}
+item {
+  name: "In"
+  label: 2
+  display_name: "In"
+}
+item {
+  name: "Pa"
+  label: 3
+  display_name: "Pa"
+}
+item {
+  name: "PS"
+  label: 4
+  display_name: "PS"
+}
+item {
+  name: "RS"
+  label: 5
+  display_name: "RS"
+}
+item {
+  name: "Sc"
+  label: 6
+  display_name: "Sc"
+}
+

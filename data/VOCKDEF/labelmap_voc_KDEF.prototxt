@@ -1,0 +1,40 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "afraid"
+  label: 1
+  display_name: "afraid"
+}
+item {
+  name: "angry"
+  label: 2
+  display_name: "angry"
+}
+item {
+  name: "disgusted"
+  label: 3
+  display_name: "disgusted"
+}
+item {
+  name: "happy"
+  label: 4
+  display_name: "happy"
+}
+item {
+  name: "neutral"
+  label: 5
+  display_name: "neutral"
+}
+item {
+  name: "sad"
+  label: 6
+  display_name: "sad"
+}
+item {
+  name: "surprised"
+  label: 7
+  display_name: "surprised"
+}
